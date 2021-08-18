@@ -1,0 +1,52 @@
+/*
+TEMPLATE: CSS
+AUTHOR: MOEZ SELMI
+LICENCE: OPEN
+VERSION: X.X.X
+ */
+
+body{
+  background-color: white;
+ /* background-image: url("../img/wp.jpg");*/
+  background-attachment: fixed;
+  background-position: center;
+  color: black;
+}
+p
+{
+  font-size: 1.5em;
+}
+h1
+{
+  color: cornflowerblue;
+  font-size: x-large;
+  text-align: center;
+}
+.introduction
+{
+  color: blue;
+}
+.salutations
+{
+  color: red;
+  font-size: x-large;
+  font-family: "Comic Sans MS",Impact, "Arial Black", Arial, Verdana, sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h2
+{
+  color: red;
+  font-size: large;
+  font-style: italic;
+  font-weight: bold;
+}
+
+a{
+  color: midnightblue;
+  text-decoration: none;
+}
+div{
+  color: red;
+}
